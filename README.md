@@ -121,7 +121,7 @@ Un perfumista podría tomar las notas herbáceas y cítricas como núcleo de una
 
 ## Cómo ejecutarlo
 
-Requisitos: Python 3.10 o superior y una clave de API de [Groq](https://console.groq.com/) (tiene un plan gratuito).
+Requisitos: Python 3.10 o superior y una clave de API.
 
 ```bash
 python -m venv .venv
@@ -132,7 +132,7 @@ pip install -r requirements.txt
 Crea un archivo `.env` en la raíz del proyecto:
 
 ```env
-GROQ_API_KEY=tu_clave_de_groq
+GROQ_API_KEY=tu_clave_API
 ```
 
 Lanza la aplicación:
