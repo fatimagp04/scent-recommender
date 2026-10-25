@@ -158,7 +158,7 @@ Este es un **prototipo académico**, no un producto en producción. En concreto:
 
 ## Tecnologías
 
-Python · Streamlit · Groq (Llama 3.3 70B) · sentence-transformers · Qdrant (en memoria) · pandas · NumPy · Plotly · pyrfume
+Python · Streamlit · sentence-transformers · Qdrant (en memoria) · pandas · NumPy · Plotly · pyrfume
 
 ## Créditos
 
